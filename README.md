@@ -2,7 +2,7 @@
 
 Description of project:  
 
-1. Visual testing -  checklist preparation, test execution  
+1. UI testing -  checklist preparation, test execution  
 [Checklist for Visual testing.xlsx](https://github.com/anastasiiaglebkina/Project-2-Yandex.Marshruty-v2/blob/c8fc9e81f924b712e9e4fd54eb93e6a60344038c/Checklist%20for%20Visual%20testing.xlsx)
 2. Functional testing - checklist and test-case preparation, test execution  
 [Checklist for functional testing_.xlsx](https://github.com/anastasiiaglebkina/Project-2-Yandex.Marshruty-v2/blob/c8fc9e81f924b712e9e4fd54eb93e6a60344038c/Checklist%20for%20functional%20testing_.xlsx), [Test-cases.xlsx](https://github.com/anastasiiaglebkina/Project-2-Yandex.Marshruty-v2/blob/c8fc9e81f924b712e9e4fd54eb93e6a60344038c/Test-cases.xlsx)
