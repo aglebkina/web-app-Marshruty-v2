@@ -1,13 +1,16 @@
-# Project 2 - Testing of web-application Yandex.Marshruty v2
+# Testing of web-application Marshruty v2
 
-Description of project:  
+*About project:* The Marshruty website builds routes for various types of transportation and calculates travel time and cost.
+In version 2 of Marshruty, new functionalities were added: car sharing and Aerotaxi (frontend only).     
 
-1. UI testing -  checklist preparation, test execution  
-[Checklist for Visual testing.xlsx](https://github.com/anastasiiaglebkina/Project-2-Yandex.Marshruty-v2/blob/c8fc9e81f924b712e9e4fd54eb93e6a60344038c/Checklist%20for%20Visual%20testing.xlsx)
-2. Functional testing - checklist and test-case preparation, test execution  
-[Checklist for functional testing_.xlsx](https://github.com/anastasiiaglebkina/Project-2-Yandex.Marshruty-v2/blob/c8fc9e81f924b712e9e4fd54eb93e6a60344038c/Checklist%20for%20functional%20testing_.xlsx), [Test-cases.xlsx](https://github.com/anastasiiaglebkina/Project-2-Yandex.Marshruty-v2/blob/c8fc9e81f924b712e9e4fd54eb93e6a60344038c/Test-cases.xlsx)
-3. New functionality testing - using Charles for response changing, checklist preparation, test execution  
-[Work with Charles](https://github.com/anastasiiaglebkina/Project-2-Charles), 
-[Checklist for new functionality.xlsx](https://github.com/anastasiiaglebkina/Project-2-Yandex.Marshruty-v2/blob/c8fc9e81f924b712e9e4fd54eb93e6a60344038c/Checklist%20for%20new%20functionality.xlsx)
-4. Bug-reports preparation  
-[Bug reports (Youtrack)](https://anastasiia-gl.youtrack.cloud/issues/511E?q=тег:%20%7Bsprint%202%7D)
+*Project Tasks:*  
+
+* UI testing (using mockups in Figma), cross-browser testing (using DevTools to change screen resolution) -  checklist preparation and test execution  
+[Checklist for Visual testing](https://github.com/aglebkina/web-app-Marshruty-v2/blob/ec733559079de2382139b1a537610e1c20d7dfb9/Checklist%20for%20Visual%20testing%20(Marshruty%20v.2)%20-%20Checklist%20for%20Visual%20testing.pdf)
+* Functional testing (car sharing) - checklist and test-case preparation, test execution  
+[Checklist for functional testing](https://github.com/aglebkina/web-app-Marshruty-v2/blob/ec733559079de2382139b1a537610e1c20d7dfb9/Checklist%20for%20functional%20testing%20%20-%20Checklist%20.pdf), [Test-cases part 1](https://github.com/aglebkina/web-app-Marshruty-v2/blob/ec733559079de2382139b1a537610e1c20d7dfb9/Test-cases%20-%20Test-cases%20Part%201%20.pdf), [Test-cases part 2](https://github.com/aglebkina/web-app-Marshruty-v2/blob/ec733559079de2382139b1a537610e1c20d7dfb9/Test-cases%20-%20Test-cases%20Part%202.pdf)  
+* New functionality (Aerotaxi) testing - using Charles for response changing (Map local & Breakpoint), checklist preparation, test execution  
+[Work with Charles](https://github.com/aglebkina/web-app-Marshruty-v2/tree/main/Changing%20responce%20using%20Charles), 
+[Checklist for new functionality](https://github.com/aglebkina/web-app-Marshruty-v2/blob/ec733559079de2382139b1a537610e1c20d7dfb9/Checklist%20for%20new%20functionality%20-%20Checklist%20for%20_Aerotaxi_.pdf)
+* Bug-reports preparation (Youtrack)  
+[Check](https://anastasiia-gl.youtrack.cloud/issues/511E?q=тег:%20%7Bsprint%202%7D)
